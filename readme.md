@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Sandeep Kumar Nayak
 - GitHub: [@SandeepKumarNayak](https://github.com/SandeepKumarNayak)
-- LinkedIn: [Sandeep Kumar Nayak](https://linkedin.com/in/sandeepkumarnayak)
+- LinkedIn: [Sandeep Kumar Nayak](https://linkedin.com/in/sandeepkmrnayak)
 
 ## Acknowledgments
 
